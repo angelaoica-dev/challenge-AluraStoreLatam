@@ -1,6 +1,3 @@
-# challenge-AluraStoreLatam
-Proyecto de especialidad Data Science en el programa ONE: Challenge Alura Store
----
 # 🏪📊 Alura Store — Análisis de Rendimiento de Tiendas
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Análisis-blue)
