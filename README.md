@@ -31,7 +31,7 @@ Este proyecto transforma datos en información clara para determinar **qué tien
 - 🐍 **Python**
 - 🐼 **Pandas** — Manipulación y análisis de datos
 - 📊 **Matplotlib** — Visualización de datos
-- - ☁️ **Google Colab** — Entorno de desarrollo en la nube
+- ☁️ **Google Colab** — Entorno de desarrollo en la nube
 - 📁 **CSV** — Fuente de datos
   
 ---
