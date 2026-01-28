@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualización-green)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
 
 Proyecto de análisis de datos desarrollado para ayudar al **Sr. Juan** a decidir qué tienda de la cadena **Alura Store** debería vender para invertir en un nuevo emprendimiento.
 
@@ -30,8 +31,9 @@ Este proyecto transforma datos en información clara para determinar **qué tien
 - 🐍 **Python**
 - 🐼 **Pandas** — Manipulación y análisis de datos
 - 📊 **Matplotlib** — Visualización de datos
+- - ☁️ **Google Colab** — Entorno de desarrollo en la nube
 - 📁 **CSV** — Fuente de datos
-
+  
 ---
 
 ## 🛠 Instalación
@@ -40,10 +42,10 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/alura-store-analisis.git
+   git clone https://github.com/angelaoica-dev/challenge-AluraStoreLatam.git
 2. Entra en la carpeta del proyecto:
    ```bash
-   cd alura-store-analisis
+   cd AluraStoreLatam.ipynb
 
 3. (Opcional pero recomendado) Crea un entorno virtual:
    ```bash
